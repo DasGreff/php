@@ -1,11 +1,11 @@
-# PHP 8.3 Apache avec Extensions
+# PHP 8.4 Apache avec Extensions
 
-Image PHP 8.3.14 avec Apache, PDO MySQL, ImageMagick et SSH client. 
+Image PHP 8.4 avec Apache, PDO MySQL, ImageMagick et SSH client. 
 UID/GID 1000 pour www-data.
 
 ## Contenu
 
-- **Base** : PHP 8.3.14 + Apache sur Debian Bookworm
+- **Base** : PHP 8.4 + Apache sur Debian Bookworm
 - **Extensions** : `pdo_mysql`, `imagick`  
 - **Outils** : ImageMagick, OpenSSH client
 - **User** : www-data (UID/GID 1000)
