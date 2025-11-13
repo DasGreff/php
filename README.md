@@ -5,7 +5,7 @@ UID/GID 1000 pour www-data.
 
 ## Contenu
 
-- **Base** : PHP 8.4 + Apache sur Debian Bookworm
+- **Base** : PHP 8.4 + Apache sur Debian Trixie
 - **Extensions** : `pdo_mysql`, `imagick`  
 - **Outils** : ImageMagick, OpenSSH client
 - **User** : www-data (UID/GID 1000)
